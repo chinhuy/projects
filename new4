@@ -1,0 +1,5 @@
+<?php
+echo 'testing2';
+echo 'test';
+phpinfo();
+?>
